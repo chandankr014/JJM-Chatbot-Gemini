@@ -1,0 +1,554 @@
+[
+    {
+        "question": "What is the main goal of the Jal Jeevan Mission (JJM)?",
+        "answer": "- The main goal of the JJM is to provide Functional Household Tap Connections (FHTCs) to every rural household in India by 2024, ensuring access to potable drinking water in adequate quantity and quality on a regular and long-term basis."
+    },
+    {
+        "question": "What are the key components supported under JJM?",
+        "answer": "- The key components supported under JJM include: - Development of in-village piped water supply infrastructure. - Reliable drinking water sources and augmentation of existing sources. - Bulk water transfer and distribution network where necessary. - Technological interventions for water quality issues. - Retrofitting of completed and ongoing schemes to provide FHTCs. - Greywater management. - Support activities such as IEC, HRD, training, and development of utilities. - Water quality laboratories and surveillance. - Addressing unforeseen challenges due to natural disasters."
+    },
+    {
+        "question": "What are the challenges faced in the drinking water sector according to the document?",
+        "answer": "- The challenges faced in the drinking water sector include: - Changing rainfall patterns due to climate change. - Water quality issues with contamination of water sources. - Inadequate infrastructure to raise service levels and provide last-mile connectivity. - Poor Operation and Maintenance (O&M) of water supply systems. - Lack of resource efficiency and wastage of water. - Limited community involvement in design, planning, and implementation. - Coordination challenges among multiple government departments."
+    },
+    {
+        "question": "How does the JJM plan to address the challenges in the drinking water sector?",
+        "answer": "- The JJM addresses these challenges through a multi-faceted strategy that includes: - Re-verification of baseline data to ensure accurate planning. - Prioritizing retrofitting of existing water supply schemes. - Exploring innovative approaches and technologies for challenging areas. - Ensuring water quality in affected habitations. - Developing regional water supply schemes for water-scarce areas. - Empowering local communities and Gram Panchayats to manage and maintain water supply systems. - Promoting partnerships with various stakeholders for effective implementation."
+    },
+    {
+        "question": "What is the role of Gram Panchayats in the JJM?",
+        "answer": "- Gram Panchayats play a pivotal role in the JJM. They are responsible for planning, implementation, management, operation, and maintenance of in-village water supply systems, including drinking water sources. This is in line with the constitutional mandate given to Panchayati jaInstitutions (PRIs) for managing drinking water."
+    },
+    {
+        "question": "How does the JJM ensure the sustainability of water supply systems?",
+        "answer": "- The JJM ensures sustainability through: - Focus on service delivery and financial sustainability. - Empowering and developing human resources in the sector. - Promoting community ownership and involvement in water supply systems. - Ensuring regular O&M and cost recovery for water supply systems."
+    },
+    {
+        "question": "What are the financial implications for the JJM?",
+        "answer": "- The financial implications for the JJM include: - Availability of central and state finance. - Grants from Finance Commissions to Panchayats for water supply management. - The need for adequate financial resources for O&M and capital requirements. - Involvement of various stakeholders, including NGOs and international agencies, to support funding and implementation."
+    },
+    {
+        "question": "What are the expected outcomes of the JJM?",
+        "answer": "- The expected outcomes of the JJM are: - Improved health and socio-economic conditions of rural populations. - Reduced drudgery for rural women and girls in fetching water. - Enhanced 'ease of living' for rural communities. - Long-term sustainability of water supply systems through community ownership and involvement."
+    },
+    {
+        "question": "What is the main goal of the Jal Jeevan Mission (JJM)?",
+        "answer": "- The main goal of the JJM is to provide Functional Household Tap Connections (FHTCs) to all rural households in India by 2024, ensuring access to safe and adequate drinking water."
+    },
+    {
+        "question": "What are the four-tier institutional frameworks set up for the implementation of JJM?",
+        "answer": "- The four-tier institutional frameworks for JJM are: - National level: National Jal Jeevan Mission (NJJM) - State level: State Water and Sanitation Mission (SWSM) - District level: District Water and Sanitation Mission (DWSM) - Village level: Gram Panchayat and its sub-committees (VWSC/Paani Samiti/User Group, etc.)"
+    },
+    {
+        "question": "What are the roles and responsibilities of the National Jal Jeevan Mission (NJJM)?",
+        "answer": "- The roles and responsibilities of NJJM include providing policy guidance, financial assistance, technical support to states, monitoring the implementation of JJM, and ensuring timely utilization of funds."
+    },
+    {
+        "question": "How does the State Water and Sanitation Mission (SWSM) contribute to JJM?",
+        "answer": "- The SWSM is responsible for planning, strategizing, and implementing JJM at the state level, ensuring coordination among departments, timely fund utilization, and convergence with other schemes."
+    },
+    {
+        "question": "What are the functions of the District Water and Sanitation Mission (DWSM)?",
+        "answer": "- The DWSM functions include overseeing the implementation of JJM at the district level, approving in-village water supply schemes, monitoring progress, and ensuring community participation."
+    },
+    {
+        "question": "What role do Gram Panchayats and their sub-committees play in JJM?",
+        "answer": "- Gram Panchayats and their sub-committees are responsible for planning, implementing, managing, operating, and maintaining in-village water supply infrastructure, leading to FHTCs for every rural household."
+    },
+    {
+        "question": "What strategies are adopted for the planning and implementation of JJM?",
+        "answer": "- Strategies include the adoption of innovative technologies, conservation measures like rainwater harvesting, use of IoT-based sensors for monitoring, capacity building, training, and IEC campaigns to ensure community participation and sustainable management of water resources."
+    },
+    {
+        "question": "How does JJM integrate with other ongoing programs and schemes?",
+        "answer": "- JJM integrates with other programs like RWSSP-LIS, NWQSM, and Swajal by aligning efforts and utilizing convergence with other schemes and sources of funding to optimize resource utilization."
+    },
+    {
+        "question": "What is the significance of active participation of women in JJM?",
+        "answer": "- Active participation of women is considered key to the success of JJM, especially at the village level, due to their crucial role in water management and community engagement."
+    },
+    {
+        "question": "What are the expected outcomes of JJM by 2024?",
+        "answer": "- By 2024, JJM aims to achieve 100% FHTC coverage in all rural households, ensuring access to safe and adequate drinking water, and transforming the administrative structure to a utility-based approach focusing on sustainable O&M of water supply systems."
+    },
+    {
+        "question": "What is the main objective of the Jal Jeevan Mission (JJM)?",
+        "answer": "- The main objective of JJM is to provide Functional Household Tap Connections (FHTCs) to every rural household in India by 2024, ensuring drinking water supply in adequate quantity and quality on a regular basis, with a minimum of 55 liters per capita per day (lpcd)."
+    },
+    {
+        "question": "Who decides whether the Gram Panchayat (GP) or its sub-committee will manage water supply responsibilities in the village?",
+        "answer": "- The Gram Sabha decides whether the GP or its sub-committee, such as the Village Water and Sanitation Committee (VWSC) or Paani Samiti, will be responsible for water supply management in the village."
+    },
+    {
+        "question": "What is the composition of the sub-committee involved in water supply management?",
+        "answer": "- The sub-committee consists of 10-15 members, including elected members of the Panchayat, with up to 25% of the members being women, and 25% representing weaker sections of the village (SC/ST) proportional to their population."
+    },
+    {
+        "question": "What are the functions of the Gram Panchayat and its sub-committee in relation to water supply?",
+        "answer": "- The functions include providing FHTCs to every rural household, ensuring preparation of the Village Action Plan (VAP), planning, designing, implementing, operating, and maintaining water supply schemes, mobilizing community contributions, supervising construction, and ensuring water quality testing."
+    },
+    {
+        "question": "What role do Implementation Support Agencies (ISAs) play in JJM?",
+        "answer": "- ISAs facilitate the constitution of the sub-committee, provide capacity building, support in mobilizing community contributions, and conduct awareness campaigns on water use and conservation."
+    },
+    {
+        "question": "What is the role of the Public Health Engineering Department (PHED)/Rural Water Supply Department in JJM?",
+        "answer": "- PHED/RWS Department is responsible for technical aspects like design, estimates, tendering, ensuring work quality, providing guidance on tariff fixing, and coordinating for source sustainability and greywater management."
+    },
+    {
+        "question": "How is the financial planning for JJM structured?",
+        "answer": "- Financial planning includes pooling resources from various sources such as central and state funds, MPLADS, MLALADS, DMDF, CSR funds, and donations. The fund sharing pattern varies for different states, with a higher central share for Himalayan and North Eastern States."
+    },
+    {
+        "question": "What are the categories of water supply schemes under JJM?",
+        "answer": "- The categories of water supply schemes include retrofitting of ongoing schemes, Single Village Schemes (SVS), Multi Village Schemes (MVS), and mini solar power-based piped water supply in isolated/tribal hamlets."
+    },
+    {
+        "question": "What is the community's role in the implementation of JJM?",
+        "answer": "- The community's role includes contributing to the capital cost of in-village piped water supply infrastructure, participating in the management, operation, and maintenance of water supply schemes, and ensuring proper use of infrastructure and cleanliness near sources."
+    },
+    {
+        "question": "How does JJM plan to ensure the long-term sustainability of water supply schemes?",
+        "answer": "- JJM plans to ensure long-term sustainability through community contributions, incentives for the community, and involving the community in the operation and maintenance (O&M) of water supply schemes."
+    },
+    {
+        "question": "What are the key components of the Village Action Plan (VAP) under JJM?",
+        "answer": "- The VAP includes cost estimates, implementation schedule, O&M arrangement, contribution from each household towards partial capital cost and O&M, and details of infrastructure like ESRs, sumps, cattle troughs, and greywater management."
+    },
+    {
+        "question": "How does JJM propose to manage greywater?",
+        "answer": "- JJM includes greywater management as a key component, with plans for collection, treatment, and reuse of greywater forming part of the Village Action Plan and in-village infrastructure. Funds for this may be sourced from Swachh Bharat Mission and other sources."
+    },
+    {
+        "question": "What is the role of sector partners in supporting JJM?",
+        "answer": "- Sector partners are expected to provide specialized HR support, plan for capacity building, design IEC/outreach campaigns, document and disseminate best practices, and facilitate workshops and conferences."
+    },
+    {
+        "question": "What is the role of the National Centre for Drinking Water, Sanitation and Quality (NCDWSQ) in JJM?",
+        "answer": "- NCDWSQ is expected to work on drinking water quality and sanitation issues, with a focus on complex water management issues in a holistic and integrated manner, and to provide inputs for policy-making.  These questions and answers cover the main aspects of the Jal Jeevan Mission as outlined in the document."
+    },
+    {
+        "question": "What is the main goal of the Jal Jeevan Mission (JJM)?",
+        "answer": "- The main goal of the JJM is to provide Functional Household Tap Connections (FHTCs) to every rural household in India by 2024, along with developing water supply infrastructure and promoting sustainable water management practices."
+    },
+    {
+        "question": "What are the funding patterns for the sub-components and sub-missions under JJM?",
+        "answer": "- The funding patterns vary based on the region and type of component. For example, for coverage and infrastructure for Har Ghar Jal, the funding pattern is 100:0 for UTs without legislature, 90:10 for NE & Himalayan States & UTs with legislature, and 50:50 for other States. For World Bank Assisted Rural Water Supply and Sanitation Project \u2013 Low Income States (RWSSP-LIS), the pattern includes 50% external assistance, 33% from coverage component released under JJM, 16% State contribution, and 1% community contribution."
+    },
+    {
+        "question": "What are the timelines for completing new schemes under JJM?",
+        "answer": "- The timelines for completing new schemes under JJM are as follows: - Maximum time allowed for completion of Small Village Schemes (SVS) and Medium Village Schemes (MVS) is 18 and 36 months, respectively. - For schemes requiring up to 3 years to complete, the contract must be awarded before March 2021. - For schemes requiring up to 2 years to complete, the contract must be awarded before March 2022. - No new scheme is allowed to substitute for a failed existing scheme unless justified and approved by the Department/National Mission."
+    },
+    {
+        "question": "How is the performance of States/UTs assessed under JJM?",
+        "answer": "- The performance of States/UTs is assessed based on parameters issued by the Department/National Mission. Additional funds are made available to better-performing States/UTs as an incentive."
+    },
+    {
+        "question": "What are the inadmissible expenses under the Central share of JJM?",
+        "answer": "- Inadmissible expenses include cost escalation, tender premium, and other program expenses not eligible for funding under the Central share. No centage will be charged from the grant-in-aid provided by the Government of India, and no expenditure on Operation & Maintenance (O&M) will be made from the Government of India fund provided under JJM."
+    },
+    {
+        "question": "How can States meet additional fund requirements for JJM?",
+        "answer": "- States can meet additional fund requirements through innovative financing mechanisms such as Public Private Partnership (PPP), Hybrid Annuity Model (HAM), Viability Gap Funding (VGF), or by accessing funds through multilateral agencies like the World Bank, Asian Development Bank, etc."
+    },
+    {
+        "question": "What are the support activities under JJM?",
+        "answer": "- Support activities under JJM include IEC, HRD, leadership development, skill development, community mobilization, third-party inspection, and documentation of best practices. These activities are aimed at building capacities, promoting behavior change, and ensuring the sustainability of water supply systems."
+    },
+    {
+        "question": "How is the Rashtriya Jal Jeevan Kosh (RJJK) utilized?",
+        "answer": "- The RJJK is utilized to facilitate donations and Corporate Social Responsibility (CSR) funds for JJM goals. It serves as a receptacle for charitable contributions and CSR funds to achieve the mission's objectives."
+    },
+    {
+        "question": "What technological interventions are suggested for the rural water supply sector?",
+        "answer": "- Suggested technological interventions include solar energy-based systems for isolated villages, community water purification plants for groundwater contaminated areas, and the use of technology in planning and monitoring, such as IoT, GIS, and IMIS."
+    },
+    {
+        "question": "How is the financial progress of JJM monitored?",
+        "answer": "- The financial progress of JJM is monitored through the PFMS and IMIS, with releases of funds linked to fund availability and utilization in PFMS and physical and financial progress monitored through IMIS.  These questions and answers cover the key aspects of the Jal Jeevan Mission as outlined in the document."
+    },
+    {
+        "question": "What is the importance of sanitary inspections in water quality monitoring?",
+        "answer": "- Sanitary inspections are crucial for identifying and evaluating factors that may pose health risks associated with drinking water. They help in preventing and detecting risks, enabling timely remedial actions to protect public health and prevent waterborne disease outbreaks."
+    },
+    {
+        "question": "Who is responsible for monitoring and surveillance of water quality?",
+        "answer": "- The PHED/RWS Department is responsible for monitoring water quality, while the GPs/rural community is responsible for surveillance activities at the grassroots level."
+    },
+    {
+        "question": "What are the key activities involved in water quality surveillance?",
+        "answer": "- Key activities include using Field Test Kits (FTKs) to assess contamination levels, referring positively tested samples to nearby laboratories for confirmation, and conducting sanitary inspections to identify potential sources of contamination."
+    },
+    {
+        "question": "How often should sanitary inspections be carried out in JE-AES affected districts?",
+        "answer": "- In districts affected by JE-AES, sanitary inspections should be conducted twice a year."
+    },
+    {
+        "question": "What are the roles of Gram Panchayat and its sub-committees in water quality surveillance?",
+        "answer": "- Gram Panchayat and its sub-committees are responsible for identifying and training five women in each village to conduct water quality surveillance activities. They also ensure that water quality tests are carried out using FTKs and report the results."
+    },
+    {
+        "question": "What is the frequency of water quality testing at different levels?",
+        "answer": "- Sub-division/block laboratories should test 100% of water sources within their jurisdiction once a year for chemical parameters and twice for bacteriological parameters. District laboratories should test 250 water sources/samples per month, covering all sources randomly. State laboratories should test at least 5% of the total drinking water samples across all district laboratories."
+    },
+    {
+        "question": "How is the funding for water quality monitoring and surveillance activities structured?",
+        "answer": "- Up to 2% of the allocation to States can be utilized for WQM&S activities, with a funding pattern of 90:10 for NE and Himalayan States and 60:40 for remaining States. The fund sharing pattern for UTs is 100:0 without legislature and 90:10 with legislature."
+    },
+    {
+        "question": "What are the key challenges in disaster management related to water supply?",
+        "answer": "- Key challenges include advance planning and preparedness, rapid response during a disaster, and restoration of services with a robust and resilient supply system post-disaster."
+    },
+    {
+        "question": "How can States utilize funds for post-disaster recovery works?",
+        "answer": "- States can use flexi-funds available under JJM for immediate post-disaster recovery works. Additionally, they can utilize the State Disaster Response Fund (SDRF) and seek additional funds through the National Disaster Response Fund (NDRF) if necessary."
+    },
+    {
+        "question": "What is the procedure for seeking external assistance for JJM implementation?",
+        "answer": "- The procedure includes preparing a Preliminary Project Report (PPR) with financial details, submitting it online, and obtaining comments from nodal ministries and departments within specified timeframes. The PPR is then placed before the screening committee of the Department of Economic Affairs for further action.  These questions and answers cover the main aspects of water quality monitoring, surveillance, disaster management, and external assistance as outlined in the document."
+    },
+    {
+        "question": "What is the purpose of the functionality assessment of FHTCs as mentioned in Annex VI?",
+        "answer": "- The purpose of the functionality assessment is to evaluate the performance of Functional Household Tap Connections (FHTCs) in terms of water supply quantity, quality, and regularity. It also assesses the operational and maintenance (O&M) responsibilities, water tariff collection mechanisms, borewell recharge structures, greywater management, and rainwater harvesting provisions."
+    },
+    {
+        "question": "How have the flexi-fund guidelines within Centrally Sponsored Schemes changed as per Annex VII?",
+        "answer": "- The flexi-fund allocation has been increased from 10% to 25% for States and 30% for Union Territories (UTs) to provide more flexibility in meeting local needs, piloting innovations, and addressing natural calamities or internal security disturbances."
+    },
+    {
+        "question": "What are the criteria for selecting third-party inspection agencies as outlined in Annex VIII?",
+        "answer": "- The criteria include having a minimum of 5 years of experience in inspecting water supply and civil infrastructure projects, monitoring at least two projects, having multi-disciplinary engineering human resources, and a minimum turnover of Rs 5 Crore."
+    },
+    {
+        "question": "What are the objectives of the flexi-fund component within Centrally Sponsored Schemes?",
+        "answer": "- The objectives include providing flexibility to States to address local needs, piloting innovations to improve efficiency, and undertaking mitigation/restoration activities in case of natural calamities or internal security disturbances."
+    },
+    {
+        "question": "What is the role of the Department of Economic Affairs (DEA) in the process of posing, implementing, and monitoring Externally Aided Projects (EAPs) as per Annex IX?",
+        "answer": "- The DEA functions as the focal point for engagements with multilateral and bilateral agencies and international financial institutions. It is responsible for examining and processing project proposals seeking external financial assistance and ensuring alignment with national and state-level development priorities."
+    },
+    {
+        "question": "What are the responsibilities of District Water and Sanitation Missions in preparing District Action Plans (DAPs) as per Annex XB?",
+        "answer": "- The responsibilities include preparing a district annual water budget, assessing water availability and security, planning conservation efforts, and focusing on capacity building through training and workshops."
+    },
+    {
+        "question": "What is the procedure for fund releases under the Jal Jeevan Mission (JJM) and Rural Water Supply Scheme (RWSSP) as outlined in Annex XIII?",
+        "answer": "- Funds are released in two installments, with the first installment (50%) released after considering excess opening balances and utilization certificates (UCs). The second installment (50%) is released upon receipt of provisional UCs, audit reports, and final UCs for the previous year."
+    },
+    {
+        "question": "What are the guidelines for using flexi-funds within Centrally Sponsored Schemes?",
+        "answer": "- Flexi-funds can be used at the scheme, sub-scheme, and component levels but not at the umbrella program level. They are intended for local needs and innovations within the approved scheme's objectives and should not be used for unproductive expenditures or to substitute state schemes."
+    },
+    {
+        "question": "What are the evaluation arrangements for Externally Aided Projects (EAPs) as per Annex IX?",
+        "answer": "- EAPs should include comprehensive evaluation arrangements for both performance and impact, with concurrent, mid-term, or post-project evaluations spelled out in the project proposal. Concurrent evaluations should focus on in-depth reflection at significant points in the project cycle."
+    },
+    {
+        "question": "What are the success criteria for assessing the achievement of Development Objectives in a project as per the Department of Expenditure OM No:1(2) \u2013 dated 7th May, 2003?",
+        "answer": "- Success criteria should be measurable and based on baseline data. They should assess whether the Development Objectives have been achieved and include specific criteria for each Deliverable/Output of the project.  These questions and answers cover the key aspects of the document, providing a brief and structured overview of the content."
+    },
+    {
+        "question": "What are the main goals and components of the Jal Jeevan Mission?",
+        "answer": "The main goal of the Jal Jeevan Mission is to provide Functional Household Tap Connections (FHTCs) with adequate quantity and prescribed quality of water to all rural households by 2024. The components of the mission include ensuring safe drinking water to reduce water-borne ailments, providing tap water connections, bottom-up planning, source sustainability, women empowerment, greywater management, skill development, employment generation, and focusing on the future generation by providing tap water to educational and public institutions."
+    },
+    {
+        "question": "How has the mission progressed in terms of providing Functional Household Tap Connections (FHTCs)?",
+        "answer": "The mission has made significant progress, with tap water coverage increasing from 3.23 Crore to 13.98 Crore rural households. There has been a nine-fold increase in FHTCs in remote and socio-economically backward districts, from 21.42 lakh to 196.56 lakh. Additionally, 9.24 lakh schools, 9.57 lakh anganwadi (day-care) centers, and 3.89 lakh public institutions have benefitted from the tap water supply."
+    },
+    {
+        "question": "What measures have been taken to ensure the quality of water supplied?",
+        "answer": "To ensure the quality of water supplied, the mission has trained more than 23.55 lakh women to use Field Test Kits to check the quality of water at the source or at home. Additionally, 2,113 water testing laboratories have been established, allowing the public to test water samples at nominal rates."
+    },
+    {
+        "question": "How has the mission empowered women in rural areas?",
+        "answer": "The mission has empowered women by involving them in various aspects of the mission, from planning to operation and maintenance. Village Water and Sanitation Committees with at least 50% women members have been formed, and women are playing a crucial role in decision-making and monitoring water supply systems."
+    },
+    {
+        "question": "What are the technological advancements implemented in the Jal Jeevan Mission?",
+        "answer": "The mission has implemented a transparent accounting system, periodic functionality assessments of tap connections, and sensor-based IoT devices to monitor water supply systems. These technological advancements help in ensuring efficient and effective management of water resources."
+    },
+    {
+        "question": "What are the steps taken for capacity building and research in the mission?",
+        "answer": "For capacity building and research, the mission has collaborated with 206 organizations as 'Sector Partners' and 99 academic institutions/NGOs as Key Resource Centres. Additionally, 5 Centres for research and innovation have been established in partnership with premier academic institutions (IITs)."
+    },
+    {
+        "question": "How has the mission addressed the issue of greywater management?",
+        "answer": "The mission addresses greywater management by promoting the reuse and recycling of wastewater for source sustenance. This is part of the end-to-end management of water resources, aiming for long-term sustainability."
+    },
+    {
+        "question": "What are the achievements of the Jal Jeevan Mission as of January 3, 2024?",
+        "answer": "The achievements of the Jal Jeevan Mission as of January 3, 2024, include a substantial increase in FHTCs, the establishment of Village Water and Sanitation Committees and Village Action Plans, and the benefit of tap water supply to schools, anganwadi centers, and public institutions."
+    },
+    {
+        "question": "How can the public access information related to the Jal Jeevan Mission?",
+        "answer": "The public can access information related to the Jal Jeevan Mission through the JJM Dashboard, which provides JJM-related data in the public domain, the Online Water Quality Management Information System, and water supply infrastructures that are geo-tagged for better management and accountability."
+    },
+    {
+        "question": "What are the key performance indicators or milestones achieved by the Jal Jeevan Mission?",
+        "answer": "The key performance indicators and milestones achieved by the Jal Jeevan Mission include the increase in FHTCs, the establishment of community-based management structures, the training of women in water quality testing, and the creation of a robust support network of organizations and institutions. The use of technology and public engagement has been instrumental in the mission's progress towards its goal of providing tap water to every rural household in India."
+    },
+    {
+        "question": "What is the historical significance of water management in India?",
+        "answer": "- Ancient Indian civilizations like Mohenjo-Daro, Dholavira, and Harappa had sophisticated water management systems including water storage, drainage, and wells. The construction of wells was considered sacred, and there was a cultural practice of sharing water with travelers."
+    },
+    {
+        "question": "How has the management of water supply evolved in India over the years?",
+        "answer": "- Water management in India has evolved from ancient practices to the formation of the Environment Sanitation Committee in the first Five-Year Plan, the Accelerated Rural Water Supply Programme, the State Drinking Water Mission, and the National Rural Drinking Water Programme (NRDWP), which aims to provide 55 lpcd through tap connections."
+    },
+    {
+        "question": "What role do Panchayati Raj Institutions play in water management?",
+        "answer": "- Panchayati Raj Institutions (PRIs) have been empowered by the 73rd Amendment to manage drinking water and sanitation. They are involved in the recharging of water sources, planning, implementation, management, operation, and maintenance of village water supply schemes."
+    },
+    {
+        "question": "What is the Jal Jeevan Mission (JJM) and what are its objectives?",
+        "answer": "- The Jal Jeevan Mission is a national program aimed at providing regular tap water supply to every rural household by 2024. It involves the formulation of five-year Village Action Plans by Gram Panchayats and emphasizes community participation and ownership in the water supply scheme."
+    },
+    {
+        "question": "How does the Water and Sanitation Management Organisation (WASMO) contribute to water management in Gujarat?",
+        "answer": "- WASMO facilitated the involvement of the local community in providing safe drinking water, leading to the successful implementation of water management projects in Gujarat. It has helped villages like Kanakpur to become self-sufficient in water supply."
+    },
+    {
+        "question": "What are the financial implications of the Jal Jeevan Mission?",
+        "answer": "- The total outlay for the Jal Jeevan Mission is Rs. 3.60 lakh Crore, with varying central and state contributions depending on the region. The village community is expected to contribute 5% of the capital cost in hilly states and 10% in other villages."
+    },
+    {
+        "question": "What is the role of the village community in the Jal Jeevan Mission?",
+        "answer": "- The village community plays a crucial role in the planning, implementation, management, operation, and maintenance of the water supply scheme. They are also responsible for fixing and paying a monthly fee for operation and maintenance."
+    },
+    {
+        "question": "How does the document suggest involving women in the water management process?",
+        "answer": "- The document emphasizes the importance of involving women in water management, highlighting their leadership and engagement in initiatives like the Swajaldhara program and the Jal Jeevan Mission. It encourages women to participate actively alongside men in addressing water and sanitation issues."
+    },
+    {
+        "question": "What are the traditional water harvesting methods mentioned in the document?",
+        "answer": "- The document lists various traditional water harvesting methods such as stepwells (Rani Ki Vav), Khadin, Kund, Nadi, Bandhara, Tal, Bandhi, Aahar, Pein, Kuhal, Eris, Surangam, Pokhar, Katta, etc., which are still relevant and in use across different states in India."
+    },
+    {
+        "question": "What are the health benefits associated with the use of clean water?",
+        "answer": "- The use of clean water can significantly reduce the incidence of diseases like cholera and typhoid, as exemplified by the 1892 Hamburg cholera epidemic, where proper water treatment methods led to fewer cases of the disease."
+    },
+    {
+        "question": "What is the goal of the Jal Jeevan Mission and by when is it expected to be accomplished?",
+        "answer": "- The goal of the Jal Jeevan Mission is to improve water supply and sanitation in rural areas, and it is expected to be accomplished by 2024."
+    },
+    {
+        "question": "How will the funds for the mission be utilized at the village level?",
+        "answer": "- Funds from various government schemes such as MGNREGA, Swachh Bharat Mission, and 15th Finance Commission Grants will be integrated at the village level for the successful implementation of the mission."
+    },
+    {
+        "question": "What is the role of the Gram Panchayat in deciding the water budget?",
+        "answer": "- The Gram Panchayat is responsible for deciding the water budget based on water availability and requirement, giving priority to drinking water. If there is a gap between supply and demand, the Gram Panchayat must find alternative water sources."
+    },
+    {
+        "question": "What are the key components of the Village Action Plan (VAP)?",
+        "answer": "- The VAP includes details on water supply, source sustainability, resource assessment, infrastructure construction, community participation, capacity building, and maintenance plans."
+    },
+    {
+        "question": "How is the approval process for the Village Action Plan?",
+        "answer": "- The VAP must be approved by the Gram Sabha with 80% agreement before it is presented to the DWSM for further action."
+    },
+    {
+        "question": "What are the health impacts of water contamination?",
+        "answer": "- Water contamination can lead to various health issues such as arsenicosis, fluorosis, gastrointestinal problems, and vector-borne diseases."
+    },
+    {
+        "question": "How can the quality of water be tested and contaminants removed?",
+        "answer": "- Water quality can be tested using Field Test Kits (FTKs) and laboratory analysis. Contaminants like arsenic, fluoride, iron, and heavy metals can be removed using specific filters."
+    },
+    {
+        "question": "What are the responsibilities of the Gram Panchayat in ensuring water security and conservation?",
+        "answer": "- The Gram Panchayat is responsible for ensuring water security and conservation by implementing the VAP, which includes water supply infrastructure, maintenance, and community engagement."
+    },
+    {
+        "question": "How does the 15th Finance Commission empower Gram Panchayats in the context of water management?",
+        "answer": "- The 15th Finance Commission empowers Gram Panchayats by providing funds for water-related plans, ensuring sustainable access to safe water and promoting water conservation and source recharge."
+    },
+    {
+        "question": "What are the health risks associated with consuming water contaminated with heavy metals?",
+        "answer": "- Consuming water contaminated with heavy metals can lead to damage to the nervous system, liver, kidneys, and other vital organs, as well as cancer."
+    },
+    {
+        "question": "What are the steps involved in the sanitary inspection of drinking water sources?",
+        "answer": "- The sanitary inspection involves checking for bacteriological contamination and ensuring timely prevention of water pollution. It should be conducted at least twice a year, before and after the rainy season."
+    },
+    {
+        "question": "How can the community contribute to the water supply infrastructure and maintenance?",
+        "answer": "- The community can contribute to the water supply infrastructure and maintenance by participating in cash, kind, or labor, as well as paying monthly charges for operation and maintenance."
+    },
+    {
+        "question": "What are the health risks associated with nematode parasites?",
+        "answer": "- Nematode parasites, particularly roundworms, can weaken the body and increase the risk of diseases. They enter the body and take nutrients from tissues or cells, leading to a weakened immune system and a higher susceptibility to illnesses."
+    },
+    {
+        "question": "What are the main sources of water contamination?",
+        "answer": "- The main sources of water contamination include fecal contamination, unsafe water, unhygienic conditions, uncooked food, rearing of animals in unhealthy conditions, insect and rodent infection, and excessive mosquitoes and flies."
+    },
+    {
+        "question": "How can water be purified to make it safe for consumption?",
+        "answer": "- Water can be purified by boiling it for at least one minute (three minutes at higher altitudes) or by using chlorine solution. Boiling is effective against bacteriological contamination, while chlorine solution can disinfect water and make it safe to drink."
+    },
+    {
+        "question": "What are the responsibilities of the Gram Panchayat and its sub-committees regarding water supply?",
+        "answer": "- The Gram Panchayat and its sub-committees are responsible for ensuring a continuous supply of safe and clean water. They must consider the facts that water that looks clean may still contain harmful bacteria and that drinking water must be free from chemical and bacteriological contamination."
+    },
+    {
+        "question": "What are the parameters that need to be tested for water quality?",
+        "answer": "- The parameters for water quality testing include pH value, total dissolved solids, turbidity, chloride, alkalinity, hardness, sulfate, iron, arsenic, fluoride, nitrate, phosphates, and residual chlorine."
+    },
+    {
+        "question": "What are the two types of in-village water supply schemes?",
+        "answer": "- The two types of in-village water supply schemes are gravity schemes and pumping schemes. Gravity schemes use the natural elevation of the water source to supply water, while pumping schemes require mechanical pumps to lift water from below the ground level."
+    },
+    {
+        "question": "How can water source recharging help in maintaining a sustainable water supply?",
+        "answer": "- Water source recharging is essential to ensure the long-term availability of water. Methods such as rainwater harvesting and recharge of groundwater can help in maintaining the water table and reducing water scarcity."
+    },
+    {
+        "question": "What are the guidelines for water quality monitoring at different levels?",
+        "answer": "- The guidelines for water quality monitoring include testing water sources for chemical and bacteriological parameters at least once a year, with more frequent testing during the monsoon season. The results are to be communicated to the local community, and corrective actions are to be taken based on the findings."
+    },
+    {
+        "question": "What are the key factors to consider when evaluating the implementation of a drinking water scheme?",
+        "answer": "- Key factors for evaluating the implementation of a drinking water scheme include community aspects (such as demand for service level and benefits), institutional aspects (legal framework and autonomy), technical aspects (assessment of water requirements and treatment needs), environmental aspects (water conservation and wastewater management), and financial aspects (cost-benefit analysis and financial management capability).   Certainly! Here are relevant questions based on the content of the document, along with their answers:"
+    },
+    {
+        "question": "What are the key objectives of the Jal Jeevan Mission?",
+        "answer": "- The key objectives of the Jal Jeevan Mission include providing every rural household with a Functional Household Tap Connection (FHTC) by 2024, improving health conditions of rural communities, reducing drudgery for women and girls, empowering women, and reducing dropout rates of upper primary level girls."
+    },
+    {
+        "question": "What preparatory steps are required before implementing a drinking water supply scheme?",
+        "answer": "- Before implementing a drinking water supply scheme, the following preparatory steps are required: forming a Village Water & Sanitation Committee with at least 50% women's participation, preparing a Village Action Plan, selecting and assessing the water source, determining the type of water supply scheme, ensuring land availability, presenting alternative cost-effective options, and gaining community consent for the Detailed Project Report (DPR) and cost estimate."
+    },
+    {
+        "question": "What are the service level benchmarks under the Jal Jeevan Mission?",
+        "answer": "- The service level benchmarks include resolving complaints within 24 hours, repairing major breakdowns, paying electricity charges for water connections, ensuring water quality and regular testing, and preventing waterborne diseases."
+    },
+    {
+        "question": "What role does the Gram Panchayat play in the Jal Jeevan Mission?",
+        "answer": "- The Gram Panchayat is responsible for forming Paani Samitis, managing finances, overseeing implementation, ensuring water quality, and ensuring all sections of the community receive equitable water supply."
+    },
+    {
+        "question": "Why is geo-tagging of infrastructure necessary?",
+        "answer": "- Geo-tagging of infrastructure is necessary to bring transparency and enable monitoring of both old and newly constructed water supply infrastructure in the village, including artificial recharge structures, grey water management infrastructure, and washing and bathing complexes."
+    },
+    {
+        "question": "How is the community involved in the functioning of the water supply scheme?",
+        "answer": "- The community is involved in operating and maintaining the water supply infrastructure, managing misuse, filing grievances, and participating in regular sanitary inspections."
+    },
+    {
+        "question": "What are the duties of the Sarpanch in relation to the water supply scheme?",
+        "answer": "- The Sarpanch is responsible for convening Gram Sabha meetings, ensuring community participation, discussing water supply issues, providing leadership in problem-solving, ensuring transparent resolution of issues, and coordinating with various departments for resolving challenges."
+    },
+    {
+        "question": "What is the role of the Gram Panchayat Secretary?",
+        "answer": "- The Gram Panchayat Secretary is responsible for organizing Gram Sabha for the selection of VWSC members, maintaining records, preparing proceedings, and presenting the proceedings of previous meetings to the Gram Sabha."
+    },
+    {
+        "question": "How is the Village Water and Sanitation Committee (VWSC) or Paani Samiti formed?",
+        "answer": "- The VWSC or Paani Samiti is formed by the Gram Sabha, involving all sections of the community, with a composition that includes elected members of the Panchayat, women members (at least 50%), and representatives of weaker sections of the village (SC/ST) proportional to their population."
+    },
+    {
+        "question": "What are the responsibilities of the VWSC/Paani Samiti?",
+        "answer": "- The VWSC/Paani Samiti is responsible for ensuring the formulation of the Village Action Plan, planning, designing, implementing, operating, and maintaining water supply schemes, providing FHTCs to every household, mobilizing community contributions, recording asset details, supervising construction, facilitating inspections, conducting awareness campaigns, and arranging for operation and maintenance of the system."
+    },
+    {
+        "question": "What is the community's contribution to the water supply scheme?",
+        "answer": "- The community's contribution to the water supply scheme varies from 5% to 10% of in-village infrastructure capital expenditure, depending on the state. This can be in the form of cash, kind, or labor."
+    },
+    {
+        "question": "Why is women's participation emphasized in the Jal Jeevan Mission?",
+        "answer": "- Women's participation is emphasized because it has been observed that schemes implemented with women's participation are often successful, and women are more efficient in the delivery and smooth operation of any scheme."
+    },
+    {
+        "question": "What is the role of Implementation Support Agencies (ISAs) in the mission?",
+        "answer": "- ISAs facilitate participatory approval and implementation, management, and operation and maintenance of in-village infrastructure by the Gram Panchayat and its sub-committees."
+    },
+    {
+        "question": "What are the three-step programs for the implementation of the Jal Jeevan Mission?",
+        "answer": "- The three-step program for the implementation of the Jal Jeevan Mission includes the Planning Phase, Implementation Phase, and Post-Implementation Phase."
+    },
+    {
+        "question": "What is the importance of the Detailed Project Report (DPR) in the planning phase?",
+        "answer": "- The DPR is crucial for presenting project details to the villagers, including the proposed source, water availability, quality, estimated cost, and community contributions. It is also important for gaining approval from the District Water & Sanitation Mission (DWSM) and for planning the operation and maintenance of the water supply scheme.   Certainly! Here are relevant questions based on the content of the document, along with their answers:"
+    },
+    {
+        "question": "What are the projected water storage capacities for different population sizes in the village?",
+        "answer": "- The projected water storage capacities for different population sizes are as follows: - For a population of 150, the capacity is 8,000 liters. - For a population of 300, the capacity is 16,000 liters. - For a population of 400, the capacity is 24,000 liters. - For a population of 500, the capacity is 32,500 liters. - For a population of 600, the capacity is 40,500 liters. - For a population of 800, the capacity is 48,500 liters. - For a population of 900, the capacity is 56,800 liters. - For a population of 1,000, the capacity is 64,900 liters. - For a population of 1,300, the capacity is 81,100 liters. - For a population of 1,500, the capacity is 97,500 liters. - For a population of 1,800, the capacity is 1,15,000 liters. - For a population of 2,000, the capacity is 1,30,000 liters. - For a population of 2,300, the capacity is 1,50,000 liters. - For a population of 2,500, the capacity is 1,63,000 liters."
+    },
+    {
+        "question": "What are the key components of the cost estimation for the village water supply scheme?",
+        "answer": "- The cost estimation for the village water supply scheme includes: - Borewell recharge structure in the local groundwater source. - Bathing and washing complex for the poor, homeless, and SC/ST habitation. - Cattle troughs as per requirement. - Green belt surrounding the village water supply units."
+    },
+    {
+        "question": "What are the responsibilities of the Village Water & Sanitation Committee (VWSC) in the post-implementation phase?",
+        "answer": "- The VWSC is responsible for: - Organizing meetings with villagers, Gram Panchayat, engineers, and the executing agency to discuss operation and maintenance. - Maintaining a complaint register for all complaints related to the water supply scheme. - Ensuring regular inspections and maintenance of the water source, treatment units, water tanks, distribution network, and house tap connections. - Managing the cleaning and maintenance of recharge facilities and water treatment plants. - Monitoring the disinfectant chlorine dosage and checking residual chlorine at house tap connections. - Maintaining required spare parts and tools, and reporting the log-book to the Gram Panchayat regularly. - Collecting fixed monthly charges from villagers and depositing them in a designated bank account. - Cleaning recharge pits and drains before the monsoon season to maximize rainwater collection. - Ensuring maximum rainwater infiltration during the monsoon season to increase groundwater levels. - Frequently organizing inspections and cleaning of each house tap connection, water source, pumping station, water tanks, treatment plants, and village ponds. - Conducting regular water quality testing and discussing the results with villagers."
+    },
+    {
+        "question": "What are the essential items required for the operation and maintenance of the drinking water supply scheme?",
+        "answer": "- Essential items for operation and maintenance include: - Pipe fittings such as T, elbow, bend, reducer, tail piece, end cap. - Lubricants, grease, and oil for machinery. - Valves and packing materials for repairs. - Chemicals for water treatment, including chlorine/bleaching powder. - A map of the water pipeline laid in the village."
+    },
+    {
+        "question": "What are the steps involved in repairing a PVC pipe in the water supply system?",
+        "answer": "- To repair a PVC pipe: - Cut the leaking portion of the pipe. - Insert a new pipe with a solution on the coupler. - Wait for 15 minutes before starting the water supply. - Do not attempt to repair a wet pipe. - If a bend or T is broken, cut it and replace it with a new one."
+    },
+    {
+        "question": "What are the precautions to be taken while operating a pump in the water supply system?",
+        "answer": "- Precautions while operating a pump include: - Ensuring the pump is not run without water. - Filling the pump with water before starting it. - Closing the delivery valve before turning on the pump and opening it gradually once the pump is on. - Keeping a standby pump in good condition and checking it regularly."
+    },
+    {
+        "question": "What are the responsibilities of the operator/plumber in maintaining the water supply system?",
+        "answer": "- The operator/plumber is responsible for: - Regularly checking all valves in the water supply system. - Detecting and repairing leakages in the pipeline. - Keeping a sufficient quantity of tools and material for repairs. - Displaying 'Work In Progress' signage during repair work. - Maintaining a register of repair work undertaken. - Ensuring proper operation of valves related to the water tank and water supply. - Preventing the water tank from overflowing."
+    },
+    {
+        "question": "How is the operation and maintenance of the drinking water supply scheme funded?",
+        "answer": "- The operation and maintenance of the drinking water supply scheme is funded through: - Water user charges collected from the local community. - Tied-grants under the 15th Finance Commission. - Funds allocated under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGS)."
+    },
+    {
+        "question": "What are the important registers that the VWSC is required to maintain?",
+        "answer": "- The VWSC must maintain the following registers: - Meeting Register - Contribution Register - Income-expenditure Register - Material/Stock Register - Cash Transaction Voucher - Bank transaction register - Quality Register - O&M of Water Supply Scheme Register"
+    },
+    {
+        "question": "What is the role of the village community in the successful operation and maintenance of the drinking water supply scheme?",
+        "answer": "- The village community plays a crucial role in: - Planning, implementing, managing, and operating the water supply scheme. - Collecting funds for operation and maintenance. - Ensuring the proper functioning of the water supply system. - Encouraging women to take up leadership roles in the management of the scheme. - Working towards the goal of providing 'Har Ghar Jal' under the Jal Jeevan Mission."
+    },
+    {
+        "question": "What is the role of Gram Panchayat in the Jal Jeevan Mission?",
+        "answer": "-The Gram Panchayat is responsible for planning, implementing, managing, operating, and maintaining water supply schemes under the Jal Jeevan Mission. They can collect user fees for operation and maintenance (O&M) or seek funding assistance. Additionally, they are to ensure the involvement of the village community in the management of water supply schemes."
+    },
+    {
+        "question": "How is the operation and maintenance (O&M) of water supply schemes funded?",
+        "answer": "- The O&M of water supply schemes is funded through user fees collected by the Gram Panchayat, assistance from the Public Health Engineering Department (PHED), and Implementation Support Agencies (ISAs), as well as funds made available by the Government of India and State Governments. Specific activities like strengthening drinking water sources and grey water treatment are supported by schemes like MGNREGS, CAMPA, and the 15th Finance Commission Grants."
+    },
+    {
+        "question": "What is the community's role in the water supply schemes?",
+        "answer": "- The community's role includes selecting proper water sources, ensuring aquifer recharge, maintaining the cleanliness of water sources, and contributing to the infrastructure through mandatory community contributions that vary by location. This involvement is aimed at instilling a sense of ownership and pride, ultimately ensuring a regular supply of adequate and quality water."
+    },
+    {
+        "question": "How does climate change impact groundwater availability, and what is the recommended approach to water management?",
+        "answer": "- Climate change affects groundwater availability, and the recommended approach to water management is a participatory one, involving the village community. This includes activities such as rainwater harvesting, renovation of traditional water bodies, and adopting schemes like Atal Bhujal Yojana for effective groundwater management."
+    },
+    {
+        "question": "What is the significance of women's participation in the Village Water & Sanitation Committee (VWSC)?",
+        "answer": "- Women's participation in the VWSC is mandatory at 50% because past experiences have shown that active female involvement is crucial for the success of water supply schemes. This reflects the importance of gender inclusion in water management."
+    },
+    {
+        "question": "What are the achievements of the Jal Jeevan Mission in its first year?",
+        "answer": "- In its first year, the Jal Jeevan Mission has provided tap connections to over 2 crore rural households, with significant progress in achieving the mission's goals through active state cooperation."
+    },
+    {
+        "question": "How can the village community contribute to water conservation and management?",
+        "answer": "- The village community can contribute by selecting appropriate water sources, ensuring aquifer recharge, maintaining the cleanliness of water sources, participating in the VWSC, and contributing to the infrastructure and O&M expenses."
+    },
+    {
+        "question": "What are the sources of funding for the various activities under the Jal Jeevan Mission?",
+        "answer": "- The funding for various activities under the Jal Jeevan Mission comes from multiple sources, including the Government of India, State Governments, MGNREGS, CAMPA, the 15th Finance Commission Grants, and community contributions."
+    },
+    {
+        "question": "What is the aim of the Jal Jeevan Mission, and how does it impact women and girls?",
+        "answer": "- The aim of the Jal Jeevan Mission is to improve the lives of people, especially women and girls, by reducing their drudgery and ensuring access to drinking water in household premises. This is achieved by providing functional household tap connections to each family."
+    },
+    {
+        "question": "How does the document suggest using treated grey water?",
+        "answer": "- The document suggests that treated grey water can be used for irrigation, growing seasonal vegetables and fruit crops, and other economic activities, thereby promoting water reuse and conservation."
+    }
+]
