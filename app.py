@@ -68,7 +68,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = [
         {
             "role": "assistant",
-            "content": "Ask me Anything from Operational Guidelines"
+            "content": "Ask me Anything"
         }
     ]
 
